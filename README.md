@@ -8,7 +8,7 @@ Business card data extraction using Optical Character Recognition (OCR) is a cut
 In Streamlit web app, you can upload an image of a business card and extract relevant information such as Name, Designation, Company, Contact Details, Address Details etc from it using easyOCR method. You can view, modify or delete the extracted data in this app. This app would also allow users to save the extracted information into a database along with the uploaded business card image. The database would be able to store multiple entries, each with its own business card image and extracted information. 
 
 # Tools Installed  
-PyCharm Community Edition 2023.3.3 
+PyCharm Community Edition 2023.3.3 ,
 PgAdmin 4(PostgreSQL) 
 
 # Required Libraries 
