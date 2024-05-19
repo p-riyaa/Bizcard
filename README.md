@@ -15,10 +15,10 @@ PgAdmin 4(PostgreSQL)
 Streamlit, Easyocr, CV2, Mysql-connector-python, Pandas, RE, Matplotlib 
 
 # ETL and EDA Process 
-a) Extracting the data - Extract the business card data by using easyocr. 
-b) Transforming the data - After the extraction process, the text data extracted is converted into structured data in the form of dataframe. 
-c) Loading data after - The transformation process, the data in the form of dataframe is stored in the MySQL database. 
-d) Visualizing, Updating, deleting the data - The extracted data can be visualized using matplotlib and in the form of dataframe. 
+**a) Extracting the data** - Extract the business card data by using easyocr. 
+**b) Transforming the data** - After the extraction process, the text data extracted is converted into structured data in the form of dataframe. 
+**c) Loading data after** - The transformation process, the data in the form of dataframe is stored in the MySQL database. 
+**d) Visualizing, Updating, deleting the data** - The extracted data can be visualized using matplotlib and in the form of dataframe. 
 The data can also be updated, modified and deleted from the database. 
 
 # User Guide 
